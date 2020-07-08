@@ -23,4 +23,4 @@
     </form>
 
     <!-- Right navbar links -->
-  </nav>
+</nav>
